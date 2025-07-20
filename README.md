@@ -1,4 +1,3 @@
-# CryptoVault
 
 
 ```markdown
